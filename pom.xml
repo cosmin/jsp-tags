@@ -7,7 +7,7 @@
 
     <groupId>com.offbytwo.jsp</groupId>
     <artifactId>jsp-tags</artifactId>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
 
     <scm>
         <connection>scm:git:git@github.com:cosmin/jsp-tags.git</connection>
